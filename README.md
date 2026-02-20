@@ -21,7 +21,7 @@ This test suite validates banking operations through JUnit 5 framework. The orig
 
 The project is organised across seven classes with clear separation of concerns:
 
-![UML Class Diagram](images/JunitAgile%20uml.png)
+![UML Class Diagram](JunitAgile%20uml.png)
 
 ### Core Components
 
